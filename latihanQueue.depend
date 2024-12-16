@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734283802 source:d:\codeblock files\latihanqueue\main.cpp
+	<iostream>
+	"queue.h"
+
+1734283771 d:\codeblock files\latihanqueue\queue.h
+	<iostream>
+
+1734283771 source:d:\codeblock files\latihanqueue\queue.cpp
+	<iostream>
+	"queue.h"
+
